@@ -669,7 +669,7 @@
          "objects":[
                 {
                  "height":18.8438,
-                 "id":24,
+                 "id":48,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -683,31 +683,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":362.109732311303,
-                 "y":492.223540242433
+                 "x":584.606632779817,
+                 "y":516.240881494435
                 }, 
                 {
                  "height":18.8438,
-                 "id":25,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Alvin",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":591.332694278103,
-                 "y":490.937540242433
-                }, 
-                {
-                 "height":18.8438,
-                 "id":26,
+                 "id":49,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -721,12 +702,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":838.753978581528,
-                 "y":490.823578275634
+                 "x":837.610348219394,
+                 "y":516.984668695429
                 }, 
                 {
                  "height":18.8438,
-                 "id":27,
+                 "id":50,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -740,31 +721,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":1057.01658143927,
-                 "y":492.934860057521
+                 "x":351.305988480345,
+                 "y":708.533681121649
                 }, 
                 {
                  "height":18.8438,
-                 "id":28,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Artem",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":358.513450529417,
-                 "y":683.42689935149
-                }, 
-                {
-                 "height":18.8438,
-                 "id":29,
+                 "id":51,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -778,12 +740,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":1057.39948835249,
-                 "y":685.16586005752
+                 "x":1055.38548987829,
+                 "y":707.413087769676
                 }, 
                 {
                  "height":18.8438,
-                 "id":30,
+                 "id":52,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -797,31 +759,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":713.62960119132,
-                 "y":654.420595296016
+                 "x":712.361626256052,
+                 "y":836.717493796392
                 }, 
                 {
                  "height":18.8438,
-                 "id":31,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Chris",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":362.900902725256,
-                 "y":875.172220427346
-                }, 
-                {
-                 "height":18.8438,
-                 "id":32,
+                 "id":53,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -835,50 +778,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":720.354789886424,
-                 "y":809.258523222051
+                 "x":365.622794631323,
+                 "y":966.858532317672
                 }, 
                 {
                  "height":18.8438,
-                 "id":33,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Eskander",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":1056.66256013895,
-                 "y":873.411486497983
-                }, 
-                {
-                 "height":18.8438,
-                 "id":34,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Farid",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":363.507262329975,
-                 "y":1066.29300745097
-                }, 
-                {
-                 "height":18.8438,
-                 "id":35,
+                 "id":54,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -892,31 +797,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":702.675201917297,
-                 "y":970.845089986603
+                 "x":1053.9039546189,
+                 "y":966.244422656287
                 }, 
                 {
                  "height":18.8438,
-                 "id":36,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Gordon",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":1059.64681772851,
-                 "y":1067.79105237392
-                }, 
-                {
-                 "height":18.8438,
-                 "id":37,
+                 "id":55,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -930,50 +816,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":360.27968265087,
-                 "y":1261.49188730266
+                 "x":361.782846200134,
+                 "y":1220.64324123348
                 }, 
                 {
                  "height":18.8438,
-                 "id":38,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Janvi",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":718.738459506858,
-                 "y":1132.12955120396
-                }, 
-                {
-                 "height":18.8438,
-                 "id":39,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Jasper",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":1066.41979560556,
-                 "y":1259.00836634967
-                }, 
-                {
-                 "height":18.8438,
-                 "id":40,
+                 "id":56,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -987,31 +835,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":360.290290819345,
-                 "y":1449.88068032542
+                 "x":1065.36573467482,
+                 "y":1221.73892529686
                 }, 
                 {
                  "height":18.8438,
-                 "id":41,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Kirsten",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":706.835833895287,
-                 "y":1290.40495005527
-                }, 
-                {
-                 "height":18.8438,
-                 "id":42,
+                 "id":57,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -1025,31 +854,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":713.232626918048,
-                 "y":1451.35276286105
+                 "x":363.034562261022,
+                 "y":1480.35198276812
                 }, 
                 {
                  "height":18.8438,
-                 "id":43,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Leopold",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":1056.32761075127,
-                 "y":1449.16915937244
-                }, 
-                {
-                 "height":18.8438,
-                 "id":44,
+                 "id":58,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -1063,50 +873,12 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":358.596101285204,
-                 "y":1641.12147334819
+                 "x":711.464277700599,
+                 "y":1349.49473144784
                 }, 
                 {
                  "height":18.8438,
-                 "id":45,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Rupert",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":583.900622238192,
-                 "y":1640.75247334818
-                }, 
-                {
-                 "height":18.8438,
-                 "id":46,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Calluna",
-                     "pixelsize":18,
-                     "text":"Tomisin",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":80.2344,
-                 "x":833.392481629811,
-                 "y":1642.82736634967
-                }, 
-                {
-                 "height":18.8438,
-                 "id":47,
+                 "id":60,
                  "name":"",
                  "rotation":0,
                  "text":
@@ -1120,8 +892,8 @@
                  "type":"",
                  "visible":true,
                  "width":80.2344,
-                 "x":1078.16339909418,
-                 "y":1640.50015937244
+                 "x":1076.50318873463,
+                 "y":1478.08305834986
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1280,7 +1052,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":48,
+ "nextobjectid":61,
  "orientation":"orthogonal",
  "properties":[
         {
